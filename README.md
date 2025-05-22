@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Developer , Full Stack Developer
 
-[![Linkedin: Satyendra Kumar](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Satyendra/)](https://www.linkedin.com/in/satyendra-kumar-868827244)
+[![Linkedin: Satyendra Kumar](https://img.shields.io/badge/-Satyendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Satyendra/)](https://www.linkedin.com/in/satyendra-kumar-868827244)
 [![GitHub Satyendra Kumar](https://img.shields.io/github/followers/Satyendra098?label=follow&style=social)](https://github.com/Satyendra098)
 
 
