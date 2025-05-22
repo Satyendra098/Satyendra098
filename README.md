@@ -6,6 +6,12 @@
 [![GitHub Satyendra Kumar](https://img.shields.io/github/followers/Satyendra098?label=follow&style=social)](https://github.com/Satyendra098)
 </p>
 
+I am a Satyendra Kumar, Full stack Web Developer and love to contribute in open source, all while passionately selving deep into the ever-evolving world of technology  
+- 🔭 I’m currently working on my Full Stack Web Development project
+- 👯 I’m looking to <b>collaborate on Open Source</b> Projects
+- 🤔 Exploring new technologies and developing sofwares
+- 💬 Ask me about software and web development stuffs
+- ⚡ Fun fact: I'm on a journey to fuse innovation and technology
 
 
 
