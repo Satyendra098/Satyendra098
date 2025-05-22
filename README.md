@@ -4,8 +4,8 @@
 
 [![Linkedin: Satyendra Kumar](https://img.shields.io/badge/-Satyendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Satyendra/)](https://www.linkedin.com/in/satyendra-kumar-868827244)
 [![GitHub Satyendra Kumar](https://img.shields.io/github/followers/Satyendra098?label=follow&style=social)](https://github.com/Satyendra098)
-  <p>
-    ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
