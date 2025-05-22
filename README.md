@@ -37,7 +37,11 @@
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 
   </p>
+## Github Stats
 
+[![Satyendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyendra098&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Satyendra098&theme=radical)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyendra098&layout=compact&theme=radical)
 
 
 
