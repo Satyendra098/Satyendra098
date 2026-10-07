@@ -80,20 +80,6 @@ revenue, products, categories and business performance.
 
 **Tools:** Excel, Pivot Tables, Pivot Charts, Slicers, Data Analysis
 
-### 🩺 Diabetes Detection
-
-A machine learning web application for predicting diabetes
-using the PIMA Indians Diabetes Dataset.
-
-**Tools:** Python, Pandas, Scikit-learn, Streamlit
-
-### 📚 Library Management System
-
-A software project designed to manage books, users and
-library transactions.
-
-**Technologies:** C++ / Database / [Add your actual technologies]
-
 ---
 
 ## 📈 GitHub Stats
